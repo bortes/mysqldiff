@@ -22,9 +22,9 @@ O objeto é produzir múltiplos arquivos `.sql` com os script de criação de ca
 
 Para então compará-los.
 
-> &nbsp;
-> **ATENÇÃO**: para uma solução completa, bem como outros bancos de dados, utilize o comando [diff](https://docs.liquibase.com/commands/community/diff.html) do [Liquibase](https://docs.liquibase.com/home.html),
-> &nbsp;
+>
+> **ATENÇÃO**: PARA UMA SOLUÇÃO COMPLETA, BEM COMO OUTROS BANCOS DE DADOS, UTILIZE O COMANDO `diff` DO [LIQUIBASE](https://docs.liquibase.com/home.html). MAIS INFORMAÇÕES [AQUI](https://docs.liquibase.com/commands/community/diff.html).
+>
 
 
 
