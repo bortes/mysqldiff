@@ -18,13 +18,13 @@ Os seguintes requisitos são necessários:
 
 O projeto foi baseado na solução apresentada por [develcuy](https://stackoverflow.com/users/2108644/develcuy) em [Compare two MySQL databases](https://stackoverflow.com/questions/225772/compare-two-mysql-databases#answer-10285788).
 
-O objeto é produzir múltiplos arquivos `.sql` com os scrtip de criação de cada tabela presente dos bancos de dados informados.
+O objeto é produzir múltiplos arquivos `.sql` com os script de criação de cada tabela presente dos bancos de dados informados.
 
-E então comparar estes arquivos.
+Para então compará-los.
 
->
-> **ATENÇÃO**: para uma solução completa, e outros bancos de dados, utilize o comando [diff](https://docs.liquibase.com/commands/community/diff.html) da [Liquibase](https://docs.liquibase.com/home.html),
->
+> &nbsp;
+> **ATENÇÃO**: para uma solução completa, bem como outros bancos de dados, utilize o comando [diff](https://docs.liquibase.com/commands/community/diff.html) do [Liquibase](https://docs.liquibase.com/home.html),
+> &nbsp;
 
 
 
